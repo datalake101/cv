@@ -3,6 +3,7 @@
 ### Education
 - PhD (Epidemiology)
 - MSc (Big Data)
+- BSC and MPH in Nutrition 
 
 ### Work Experience
 - Lecturer (2022/7-), Interdisciplinary School of Health Sciences, University of Ottawa
@@ -11,9 +12,9 @@
 - Data consultant (2019/04-) Center for Social Capital and Environmental Research. 
 
 
-### Courses I have taught at the University of Ottawa
-- HSS 3110 Epidemiology (Taught twice)
-- HSS 2382 Quant. Methods Health (Taught twice)
+### Courses I have taught  
+- HSS 3110 Epidemiology 
+- HSS 2382 Quant. Methods Health  
 - EPI 5144 Global Health Epidemiology & Practice
 - HSS 2782 Analyse quantitative des données en sciences de la santé 
 - HSS 3101 Health Research: Quantitative and Qualitative Approaches
